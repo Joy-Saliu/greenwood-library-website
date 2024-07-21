@@ -7,7 +7,7 @@
 - contact_us.html
 > ![](image%201.png)
  - Created and switched to a new branch named "add-book-reviews".
-Staged, commit and pushed changes.   
+Staged, commit and pushed changes. ![](image5.png)   
  -  Pushed the add-book-reviews branch to github and raised a pull request for Morgan's work.
 
 - Merged Morgan's work to the main branch. ![](image%202.png)
@@ -16,8 +16,8 @@ Staged, commit and pushed changes.
 - Staged, commit and pushed changes to updated-events.     
 - Pulled the latest changes from the main branch into update-events before raising a pull request.
 >![](image%203.png)  
-## This project was worked on by Admin, Morgan and Jamie. It was a good team effort that encourage communication, patience and time management
-
-
-
  
+ 
+ ##### This project was worked on by Admin, Morgan and Jamie. It was a good team effort that encourage communication, patience and time management.
+- Special thanks to Admin, Development team, Operations and Devops team for working on this project. 
+
