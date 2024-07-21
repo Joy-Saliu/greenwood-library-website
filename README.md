@@ -16,7 +16,7 @@ Staged, commit and pushed changes.
 - Staged, commit and pushed changes to updated-events.     
 - Pulled the latest changes from the main branch into update-events before raising a pull request.
 >![](image%203.png)  
-## This project was worked on by Admin, Morgan and Jamie. It was a good team effort that encourage communication, patience and challenging tasks.
+## This project was worked on by Admin, Morgan and Jamie. It was a good team effort that encourage communication, patience and time management
 
 
 
