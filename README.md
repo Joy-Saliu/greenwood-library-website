@@ -11,3 +11,8 @@ Staged, commit and pushed changes.
  -  Pushed the add-book-reviews branch to github and raised a pull request for Morgan's work.
 
 - Merged Morgan's work to the main branch. ![](image%202.png)
+Created and switched to Jammies branch named "update-events".           
+- Staged, commit and pushed changes to updated-events.     
+- Pulled the latest changes from the main branch into update-events before raising a pull request.
+> ![](images 3.png)
+ 
