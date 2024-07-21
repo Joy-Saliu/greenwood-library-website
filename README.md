@@ -14,5 +14,6 @@ Staged, commit and pushed changes.
 Created and switched to Jammies branch named "update-events".           
 - Staged, commit and pushed changes to updated-events.     
 - Pulled the latest changes from the main branch into update-events before raising a pull request.
-> ![](images 3.png)
+>![alt text](<image 3.png>)
+ 
  
