@@ -6,3 +6,8 @@ Created files on the main page; stage,commit and pushed them.
 - about_us.html
 - contact_us.html
 > ![](image%201.png)
+ - Created and switched to a new branch named "add-book-reviews".
+Staged, commit and pushed changes.   
+ -  Pushed the add-book-reviews branch to github and raised a pull request for Morgan's work.
+
+- Merged Morgan's work to the main branch. ![](image%202.png)
