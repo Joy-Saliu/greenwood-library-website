@@ -10,4 +10,6 @@ Created files on the main page; stage,commit and pushed them.
 Staged, commit and pushed changes.   
  -  Pushed the add-book-reviews branch to github and raised a pull request for Morgan's work.
 
-- Merged Morgan's work to the main branch. ![](image%202.png)
+- Merged Morgan's work to the main branch. ![](image%202.png) 
+
+- Created an update events branch for jammies work. added an update
