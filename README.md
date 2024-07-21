@@ -5,4 +5,4 @@ Created files on the main page; stage,commit and pushed them.
 - events.html
 - about_us.html
 - contact_us.html
-> 
+> ![](image%201.png)
