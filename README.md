@@ -1,5 +1,5 @@
 # greenwood-library-website #
-## This project is a Greenwood Community Library Website. HTML files where created, staged, commited and pushed. 
+#### This project is a Greenwood Community Library Website. HTML files where created, staged, commited and pushed. Two branches for Morgan and jammie named add-book-reviews and updated-events respectively were also created,commited and pushed. each branch was pulled in to the main brasnch after comparison and merged.
 Created files on the main page; stage,commit and pushed them.
 - home.html
 - events.html
@@ -11,9 +11,9 @@ Staged, commit and pushed changes.
  -  Pushed the add-book-reviews branch to github and raised a pull request for Morgan's work.
 
 - Merged Morgan's work to the main branch. ![](image%202.png)
-Created and switched to Jammies branch named "update-events".           
+- Created and switched to Jammies branch named "update-events".           
 - Staged, commit and pushed changes to updated-events.     
 - Pulled the latest changes from the main branch into update-events before raising a pull request.
->![alt text](<image 3.png>)
- 
+>![](image%203.png)
+
  
