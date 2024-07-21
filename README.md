@@ -12,4 +12,6 @@ Staged, commit and pushed changes.
 
 - Merged Morgan's work to the main branch. ![](image%202.png) 
 
-- Created an update events branch for jammies work. added an update
+- Created an update events branch for jammies work. added an update on events page. 
+pulled the latest changes from the main branch into update events before raising PR.
+>
